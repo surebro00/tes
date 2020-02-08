@@ -22,7 +22,7 @@ sections:
     - label: Get Started
       url: docs/index.html
   - title: Blog
-    content: ''
+    content: Aggiornamenti e news verranno riportati in questa sezione
     actions:
     - label: Vai
       url: blog/index.html
