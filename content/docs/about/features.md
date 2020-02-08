@@ -17,7 +17,7 @@ Probabilmente nel 70% dei casi, userai questa piattaforma da Mobile.
 
 Allego un video su come ci si muove all’interno di MT4 per Android.
 
-Link video: [LINK](https://www.youtube.com/watch?v=L6vuB4N3J44&t=2s)
+> Link video: [LINK](https://www.youtube.com/watch?v=L6vuB4N3J44&t=2s)
 
 **NB**: _Il layout e il comportamento su IOS può essere differente._
 
