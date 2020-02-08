@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- content/glossario.md
 - content/style-guide.md
