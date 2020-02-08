@@ -1,6 +1,6 @@
 ---
-title: Overview
-subtitle: An optional subtitle
+title: Capitoli
+subtitle: Scegli un capitolo per iniziare
 img_path: images/5.jpg
 sections:
 - type: ctablock
