@@ -1,136 +1,91 @@
 ---
-title: Overview
+title: Principiante - Parte 2
 weight: 1
 layout: docs
+excerpt: ''
+
 ---
+Quanto devo investire?
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+Nel trading, meno capitale si ha a disposizione e più difficile sarà aumentarlo. Questo non vuol dire che è impossibile. Personalmente, per i principianti, consiglio di investire almeno **200€** in modo tale da avere 100€ come **backup** se si perde i primi **100€**.
 
-## Callouts
+La tabella mostra un esempio dell’uso dei LOT SIZE basato sul capitale disponibile:
 
-<hr>
+| CAPITALE INIZIALE | LOT SIZE |
+| --- | --- |
+| 100€ - 299€ | 0.01 |
+| 300€ - 499€ | 0.02 |
+| 500€ - 999€ | 0.03 |
+| 1000€ - 1999€ | 0.05 |
+| 2000€ - 2999€ | 0.08 |
+| 3000€ - 3999€ | 0.10 |
 
-There are two types of callouts availabale in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+La tabella mostra un esempio di investimento di **1 anno** dove il rischio è il **5%** del capitale disponibile:
 
-### HTML example
+| MESE | CAPITALE INIZIALE | PROFITTO | CAPITALE FINALE |
+| --- | --- | --- | --- |
+| 1 | 100€ | 5€/giorno25€/settimana100€/mese | 200€ |
+| 2 | 200€ | 10€/giorno50€/settimana400€/mese | 400€ |
+| 3 | 400€ | 20€/giorno100€/settimana400€/mese | 800€ |
+| 4 | 800€ | 40€/giorno200€/settimana800€/mese | 1600€ |
+| 5 | 1600€ | 80€/giorno400€/settimana1600€/mese | 3200€ |
+| 6 | 3200€ | 160€/giorno800€/settimana3200€/mese | 6400€ |
+| 7 | 6400€ | 320€/giorno1600€/settimana6400€/mese | 12800€ |
+| 8 | 12800€ | 640€/giorno3200€/settimana12800€/mese | 25600€ |
+| 9 | 25600€ | 1280€/giorno6400€/settimana25600€/mese | 51200€ |
+| 10 | 51200€ | 2560€/giorno12800€/settimana51200€/mese | 102400€ |
 
-Copy the code and modify these blocks according to your needs.
+**_NB:_** _Per i principianti sarebbe meglio non superare il rischio del **2%** del capitale_
 
-```html
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
+## Concetti generali ed esempio di posizione
 
-```html
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
-### Live example
+EUR/USD à la coppia più forte.
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
+Facciamo caso che EUR/USD sta salendo, ci sono due possibilità:
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note.
-</div>
+* EUR sta diventando “forte”
+* USD sta diventando “debole”
 
-## Code blocks
+Il **valore attuale** di EUR/USD è di 1,09755
 
-<hr>
+Se si vuole comprare (**BUY**) EUR/USD, la posizione aperta partirà ad un prezzo più basso rispetto a quello attuale.
 
-<div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
-</div>
+Se si vuole vendere (**SELL**) EUR/USD, la posizione aperta partirà ad un prezzo più alto rispetto a quello attuale.
 
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
+**Perchè?** I siti di trading (trading broker) guadagnano sulla posizione con lo **spread**.
 
-<pre>```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
+Per quello quando si compra o si vende il **valore** non è mai quello **attuale**.
 
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+Se la posizione aperta su EUR/USD va da un valore di 1,09755 ad un valore di 1,09765 abbiamo una variazione di 10 **MICROPIPS** quindi di un valore di 1 **PIP**.
 
-### Syntax highlighting
+* 1 PIP vale 10 MICROPIPS.
+* 10 PIPS valgono 100 MICROPIPS.
+* 100 PIP valgono 1000 MICROPIPS.
 
-You can add a language identifier to enable syntax highlighting in your code block. For example, to syntax highlight **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
+Per sapere il tuo profitto o perdita, facciamo una veloce operazione:
 
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
+LOT SIZE * Numero di MICROPIPS
 
-The rendered output looks like this:
+**Esempio pratico**:
 
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+Il tuo sito broker ha 2 **PIPS** di **spread**, quindi 20 **MICROPIPS**.
 
-## Tables
+Valore attuale EUR/USD 1,09755, tu vuoi comprare questa coppia e la ottieni ad un prezzo di 1,09735.
 
-<hr>
+Quindi tu stai facendo trading con un **LOT SIZE** di 2.00, quindi applicando la formula:
 
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
+2\.00 * 20 (micropips) = 40€ di perdita
 
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
+Perchè sono in perdita? Perchè il tuo broker ha 2 **PIPS** di **spread**, applicati al lotto che stai usando cioè 2.00.
 
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
+Valore attuale EUR/USD 1,09755, tu vuoi vendere (**SELL**) questa coppia e la ottieni ad un prezzo di 1,09775.
 
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
+Dopo 3 ore che hai tenuto aperta la posizione, il valore è 1,09700
 
-## Start using Libris theme
+Il valore è passato da 1,09775 a 1,09755, in questo caso sei in perdita.
 
-<hr>
+Il valore è passato da 1,09755 a 1,09700, in questo caso sei in profitto.
 
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
+Quindi tu sei in profitto di 5.5 **PIPS** quindi di 55 **MICROPIPS**
 
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+2\.00 * 55 (micropips) = 110€ in profitto
