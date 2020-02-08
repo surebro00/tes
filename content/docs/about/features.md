@@ -1,109 +1,28 @@
 ---
-title: Features
+title: Principiante - Parte 3
 weight: 2
 layout: docs
+excerpt: ''
+
 ---
+## Cosa si usa per fare trading?
 
-<div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+![](https://trading-guide.netlify.com/img/3.png) ![](https://trading-guide.netlify.com/img/4.png)
 
-### Syntax highlighting
+MetaTrader 4 (**MT4**) e MetaTrader 5 (**MT5**) è una piattaforma di trading elettronica ampiamente utilizzata dai **Trader al dettaglio**.
 
-You can add a language identifier to enable syntax highlighting in your code block. For example, to highlight the **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
+Probabilmente nel 70% dei casi, userai questa piattaforma da Mobile.
 
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
+## Come si usa?
 
-The rendered output looks like this:
+Allego un video su come ci si muove all’interno di MT4 per Android.
 
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
+Link video: [LINK](https://www.youtube.com/watch?v=L6vuB4N3J44&t=2s)
 
-Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
+**NB**: _Il layout e il comportamento su IOS può essere differente._
 
-<pre>
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
+## Qual'è il miglior broker per iniziare?
 
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
+Personalmente questi sono i 3 che preferisco. Supporto cliente, spread e quantità di coppie disponibili. Io uso ICMarkets e mi trovo molto bene, mai avuto problemi e supporto molto attivo.
 
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
-
-The rendered output looks like this:
-
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-
-## Callouts
-
-There are two types of callouts availabale in this theme, **important** and **note**.
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note or tip.
-</div>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-| Name | Required | Type | Description |
-| ---- | --- | --- | --- |
-| type | Required | `enum` | The type of the model. Must be one of - `page`, `config`, `data`, `object` |
-| label | Required | `string` | The label of the model |
-| description | | `string` | Description of the model. Used by some CMS. |
-| fields | | `list` of `objects` | List of Field Models |
-
-## Start using Libris theme
-
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+|  |  |  |
