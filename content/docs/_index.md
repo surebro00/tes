@@ -1,20 +1,16 @@
 ---
-title: Welcome to Libris
+title: Benvenuto
 layout: docs
+weight: 
+excerpt: ''
 menu:
   main:
     name: Docs
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Troverai materiale utile come tutorial e guide dove ti spiegheranno come muoverti all'interno del mondo del mercato finanziario.
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+_Tutto il materiale che troverai all'interno è semplicemente tratto da libri, fonti online, e insegnanti della materia trattata. Gli argomenti trattati sono sotto il copyright che li appartiene._
