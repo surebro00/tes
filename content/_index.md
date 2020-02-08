@@ -27,13 +27,11 @@ sections:
     actions:
     - label: View Posts
       url: blog/index.html
-  - title: Style Guides
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+  - title: Glossario
+    content: Glossario dei termini più usati in Finanza
     actions:
-    - label: Learn More
-      url: "/style-guide.html"
+    - label: Scopri
+      url: "/glossario.html"
   title: ''
   subtitle: ''
 layout: home
