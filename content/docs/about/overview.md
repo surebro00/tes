@@ -5,7 +5,7 @@ layout: docs
 excerpt: ''
 
 ---
-Quanto devo investire?
+## Quanto devo investire?
 
 Nel trading, meno capitale si ha a disposizione e più difficile sarà aumentarlo. Questo non vuol dire che è impossibile. Personalmente, per i principianti, consiglio di investire almeno **200€** in modo tale da avere 100€ come **backup** se si perde i primi **100€**.
 
