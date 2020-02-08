@@ -5,7 +5,7 @@ weight:
 excerpt: ''
 menu:
   main:
-    name: Docs
+    name: Start
     weight: 2
 
 ---
