@@ -3,15 +3,12 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hero Section
+  title: Trading Guide
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Un modo semplice e gratuito per imparare il mercato finanziario
   image: images/5.jpg
-  actions:
-  - label: Get Started
-    url: docs/index.html
+  actions: []
 - type: featuresblock
   template: featuresblock
   section_id: features
@@ -37,61 +34,8 @@ sections:
     actions:
     - label: Learn More
       url: "/style-guide.html"
-- type: contentblock
-  template: contentblock
-  title: A Section With An Image
-  section_id: text-img
-  component: content_block.html
-  content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-    cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur
-    lobortis.
-  image: images/10.jpg
-  actions:
-  - label: View Demo
-    url: "/docs/getting-started/index.html"
-  - label: Get Started
-    url: "/docs/getting-started/index.html"
-- type: featuresblock
-  template: featuresblock
-  title: Sample Layouts
-  section_id: features-two-col
-  component: features_block.html
-  subtitle: An optional subtitle of the section
-  featureslist:
-  - title: Overview
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
-    actions:
-    - label: Learn More
-      url: "/overview.html"
-  - title: Showcase
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
-    actions:
-    - label: Learn More
-      url: "/showcase.html"
-- type: ctablock
-  template: ctablock
-  title: The Title of The Call to Action Block
-  section_id: cta
-  component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/docs/getting-started/installation.html"
-- type: contentblock
-  template: contentblock
-  title: A Section Without Image
-  section_id: text-no-img
-  component: content_block.html
-  content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-    cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur
-    lobortis.
-  actions:
-  - label: Get Started
-    url: "/docs/getting-started/installation.html"
+  title: ''
+  subtitle: ''
 layout: home
 menu:
   main:
