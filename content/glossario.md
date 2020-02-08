@@ -4,7 +4,7 @@ layout = "page"
 subtitle = "Glossario dei termini più usati"
 title = "Glossario"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 In arrivo...
