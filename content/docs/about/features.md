@@ -25,4 +25,6 @@ Link video: [LINK](https://www.youtube.com/watch?v=L6vuB4N3J44&t=2s)
 
 Personalmente questi sono i 3 che preferisco. Supporto cliente, spread e quantità di coppie disponibili. Io uso ICMarkets e mi trovo molto bene, mai avuto problemi e supporto molto attivo.
 
-|  |  |  |
+![](https://trading-guide.netlify.com/img/5.png)![](https://trading-guide.netlify.com/img/6.png)
+
+![](https://trading-guide.netlify.com/img/7.png)
