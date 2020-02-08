@@ -14,12 +14,10 @@ sections:
   section_id: features
   component: features_block.html
   featureslist:
-  - title: Documentation
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+  - title: Documentazione
+    content: Impara le nozioni e le strategie del mondo Finanziario
     actions:
-    - label: Get Started
+    - label: Start
       url: docs/index.html
   - title: Blog
     content: Aggiornamenti e news verranno riportati in questa sezione
