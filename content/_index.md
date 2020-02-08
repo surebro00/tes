@@ -22,10 +22,9 @@ sections:
     - label: Get Started
       url: docs/index.html
   - title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: ''
     actions:
-    - label: View Posts
+    - label: Vai
       url: blog/index.html
   - title: Glossario
     content: Glossario dei termini più usati in Finanza
