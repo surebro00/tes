@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - content/posts/libris-theme.md
+- content/posts/nuova-versione-1-0-1.md
