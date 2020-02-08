@@ -13,4 +13,4 @@ Troverai materiale utile come tutorial e guide dove ti spiegheranno come muovert
 
 ***
 
-_Tutto il materiale all'interno è semplicemente tratto da libri, fonti online ed insegnanti della materia trattata. Gli argomenti trattati vengono semplificati e/o riadattati inoltre sono sotto il copyright che li appartiene. Qualsiasi situazione finanziaria ritratta può non rappresentare il tempo odierno._
+_Tutto il materiale all'interno è semplicemente tratto da libri, fonti online ed insegnanti della materia trattata. Gli argomenti trattati vengono semplificati e/o riadattati ed inoltre sono sotto il copyright che li appartiene. Qualsiasi situazione finanziaria ritratta può non rappresentare il tempo odierno._
